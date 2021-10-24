@@ -24,7 +24,7 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.gingerbreadfred.co.uk/about/</guid>
-      <description>.about-image{border-radius: 5%; max-width: 90%; width: 600;}.profile-image{border-radius: 50%; max-width: 90%; width: 200; }I&amp;rsquo;m Richard Watson, Gameplay Programmer and currently Lead Sandbox Engineer at 343 Industries.
+      <description>.about-image{border-radius: 5%; max-width: 90%; width: 600px;}.profile-image{border-radius: 50%; max-width: 90%; width: 200px; }I&amp;rsquo;m Richard Watson, Gameplay Programmer and currently Lead Sandbox Engineer at 343 Industries.
 Projects Halo Infinite - Lead Sandbox Engineer Halo Infinite is the latest entry in the Halo franchise. As lead of the Engineering Team on Sandbox my team and I are responsible for the following
  Managing a team of 13 engineers at it&amp;rsquo;s largest including 7 spanning two remote studios All Weapon, object, vehicle and player character code All gameplay networking Working effectively with our partner disciplines design, animation, art, effects, audio  3D Scanning - Senior Software Engineer Worked on multiple aspects of a 3d object scanning application capable of generating 3d objects from a monocular or stereo camera feed.</description>
     </item>
