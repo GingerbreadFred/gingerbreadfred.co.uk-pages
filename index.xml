@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Variadic Vault</title>
-    <link>http://www.gingerbreadfred.co.uk/</link>
-    <description>Recent content on Variadic Vault</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2022. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Feb 2022 19:00:00 +0100</lastBuildDate><atom:link href="http://www.gingerbreadfred.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <title>Richard Watson on Gingerbread Racing</title>
+    <link>https://www.gingerbreadfred.co.uk/</link>
+    <description>Recent content in Richard Watson on Gingerbread Racing</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 20 Oct 2024 15:19:53 +0100</lastBuildDate>
+    <atom:link href="https://www.gingerbreadfred.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Halo Infinite Network Blog</title>
-      <link>http://www.gingerbreadfred.co.uk/post/2022210-infinite-network/</link>
-      <pubDate>Thu, 10 Feb 2022 19:00:00 +0100</pubDate>
-      
-      <guid>http://www.gingerbreadfred.co.uk/post/2022210-infinite-network/</guid>
-      <description>&lt;p&gt;Hey, if you are interested in a deep dive on &amp;ldquo;desync&amp;rdquo; in Halo Infinite, how our networking model works and what we are doing to make improvements take a look at the blog post I wrote up on Halo Waypoint. Link in the post.&lt;/p&gt;</description>
+      <title>Richard Watson</title>
+      <link>https://www.gingerbreadfred.co.uk/about/</link>
+      <pubDate>Sun, 20 Oct 2024 15:19:53 +0100</pubDate>
+      <guid>https://www.gingerbreadfred.co.uk/about/</guid>
+      <description>&lt;style&gt;&#xA;    .about-image&#xA;    {&#xA;        border-radius: 5%; &#xA;        max-width: 90%; &#xA;        width: 600px;&#xA;    }&#xA;&#xA;    .profile-image&#xA;    {&#xA;        border-radius: 5%; &#xA;        max-width: 90%; &#xA;        width: 200px; &#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Richard Watson, Sim Racer, Game Developer and currently Technical Director at People Can Fly. This website has been setup to track my preperation and progress through the Caterham Academy 2025 series as well as act as somewhere for me to dump thoughts about game development.&lt;/p&gt;&#xA;&lt;h1 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h1&gt;&#xA;&lt;h2 id=&#34;halo-infinite---lead-sandbox-engineer&#34;&gt;Halo Infinite - Lead Sandbox Engineer&lt;/h2&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.gingerbreadfred.co.uk/images/about/Halo.jpg&#34; class=&#34;about-image&#34;/&gt;&lt;/div&gt;&#xA;&lt;p&gt;Halo Infinite is the latest entry in the Halo franchise. As lead of the Engineering Team on Sandbox my team and I are responsible for the following&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Halo Infinite PC Overview</title>
-      <link>http://www.gingerbreadfred.co.uk/post/20211022-infinite-pc-overview/</link>
-      <pubDate>Fri, 22 Oct 2021 19:00:00 +0100</pubDate>
-      
-      <guid>http://www.gingerbreadfred.co.uk/post/20211022-infinite-pc-overview/</guid>
-      <description>&lt;p&gt;Come and hear me and some other cool people from 343 talk about some of the things we have been doing at 343 to make sure Halo Infinite is a great experience on PC! Link in the post.&lt;/p&gt;</description>
+      <title>Garage Prep</title>
+      <link>https://www.gingerbreadfred.co.uk/posts/caterham-prep/</link>
+      <pubDate>Sun, 20 Oct 2024 15:03:55 +0100</pubDate>
+      <guid>https://www.gingerbreadfred.co.uk/posts/caterham-prep/</guid>
+      <description>&lt;h2 id=&#34;garage-prep&#34;&gt;Garage Prep&lt;/h2&gt;&#xA;&lt;p&gt;Delivery day is coming on Tuesday so I have been getting the final bits of garage prep done before the big day.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.gingerbreadfred.co.uk/about/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.gingerbreadfred.co.uk/about/</guid>
-      <description>.about-image{border-radius: 5%; max-width: 90%; width: 600px;}.profile-image{border-radius: 50%; max-width: 90%; width: 200px; }I&amp;rsquo;m Richard Watson, Gameplay Programmer and currently Lead Sandbox Engineer at 343 Industries.
-Projects Halo Infinite - Lead Sandbox Engineer Halo Infinite is the latest entry in the Halo franchise. As lead of the Engineering Team on Sandbox my team and I are responsible for the following
- Managing a team of 13 engineers at it&amp;rsquo;s largest including 7 spanning two remote studios All Weapon, object, vehicle and player character code All gameplay networking Working effectively with our partner disciplines design, animation, art, effects, audio  3D Scanning - Senior Software Engineer Worked on multiple aspects of a 3d object scanning application capable of generating 3d objects from a monocular or stereo camera feed.</description>
-    </item>
-    
   </channel>
 </rss>
